@@ -4,7 +4,7 @@ import pandas as pd
 # 모바일 화면에 맞춘 페이지 기본 설정
 st.set_page_config(page_title="관정정보 검색", page_icon="icon.png", layout="centered")
 
-st.title("📱 금강유역 관정정보")
+st.title("금강유역 관정")
 st.markdown("---")
 
 # 엑셀 데이터 불러오기 함수 (데이터를 캐싱하여 로딩 속도 향상)
